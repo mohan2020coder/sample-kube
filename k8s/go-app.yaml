@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: go-app
-        image: localhost:8082/myapp:latest
+        image: localhost:8083/myapp:latest
         ports:
         - containerPort: 8080
 
